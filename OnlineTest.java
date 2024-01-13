@@ -57,7 +57,6 @@ class OnlineTest extends JFrame implements ActionListener {
         setSize(600, 350);
         getContentPane().setBackground(new Color(255, 228, 225)); // Background color
 
-        // Atur warna tombol
         b1.setBackground(new Color(135, 206, 250));
         b2.setBackground(new Color(144, 238, 144));
         b3.setBackground(new Color(255, 182, 193));
